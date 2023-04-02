@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\bin\Debug\net5.0\C# Lesson_1.exe
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\bin\Debug\net5.0\C# Lesson_1.deps.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\bin\Debug\net5.0\C# Lesson_1.runtimeconfig.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\bin\Debug\net5.0\C# Lesson_1.runtimeconfig.dev.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\bin\Debug\net5.0\C# Lesson_1.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\bin\Debug\net5.0\ref\C# Lesson_1.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\bin\Debug\net5.0\C# Lesson_1.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\ref\C# Lesson_1.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C# Lesson_1\obj\Debug\net5.0\C# Lesson_1.genruntimeconfig.cache

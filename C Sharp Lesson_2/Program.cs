@@ -6,7 +6,10 @@ namespace C_Sharp_Lesson_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите ваше имя:");
+            string username = Console.ReadLine();
+            Console.WriteLine("Привет, ");
+            Console.WriteLine(username);
         }
     }
 }

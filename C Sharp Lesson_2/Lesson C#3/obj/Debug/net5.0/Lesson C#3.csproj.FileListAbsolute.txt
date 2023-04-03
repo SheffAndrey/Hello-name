@@ -1,0 +1,5 @@
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C Sharp Lesson_2\Lesson C#3\obj\Debug\net5.0\Lesson C#3.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C Sharp Lesson_2\Lesson C#3\obj\Debug\net5.0\Lesson C#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C Sharp Lesson_2\Lesson C#3\obj\Debug\net5.0\Lesson C#3.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C Sharp Lesson_2\Lesson C#3\obj\Debug\net5.0\Lesson C#3.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\C Sharp Lesson_2\Lesson C#3\obj\Debug\net5.0\Lesson C#3.csproj.CoreCompileInputs.cache

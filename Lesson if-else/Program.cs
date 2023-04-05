@@ -9,7 +9,7 @@ namespace Lesson_if_else
             Console.Write("Как зовут тебя человек?   -   ");
             string username = Console.ReadLine();
 
-            if (username == "Андрей")
+            if (username.ToLower() == "андрей")
             {
                 Console.WriteLine("Привет Андрюха");
             }

@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\bin\Debug\net5.0\Lesson if-else.exe
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\bin\Debug\net5.0\Lesson if-else.deps.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\bin\Debug\net5.0\Lesson if-else.runtimeconfig.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\bin\Debug\net5.0\Lesson if-else.runtimeconfig.dev.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\bin\Debug\net5.0\Lesson if-else.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\bin\Debug\net5.0\ref\Lesson if-else.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\bin\Debug\net5.0\Lesson if-else.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\ref\Lesson if-else.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Lesson if-else\obj\Debug\net5.0\Lesson if-else.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\bin\Debug\net5.0\Kettlebell.exe
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\bin\Debug\net5.0\Kettlebell.deps.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\bin\Debug\net5.0\Kettlebell.runtimeconfig.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\bin\Debug\net5.0\Kettlebell.runtimeconfig.dev.json
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\bin\Debug\net5.0\Kettlebell.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\bin\Debug\net5.0\ref\Kettlebell.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\bin\Debug\net5.0\Kettlebell.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\ref\Kettlebell.dll
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.pdb
+C:\Users\Андрей\Desktop\GEEKBRAINS\Домашнее задание\С#_Aydarov Andrey\Kettlebell\obj\Debug\net5.0\Kettlebell.genruntimeconfig.cache

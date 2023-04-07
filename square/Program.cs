@@ -7,7 +7,8 @@ namespace square
         static void Main(string[] args)
         {
             Console.WriteLine("Введите число: ");
-            int numb = Console.ReadLine();
+            string input = Console.ReadLine();
+            int numb = int.Parse (input);
             int sqr = numb * numb;
             Console.WriteLine(sqr);
         }
